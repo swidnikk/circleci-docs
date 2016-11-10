@@ -27,9 +27,6 @@ machine:
     version: 7.0.4
 ```
 
-Please [contact us](mailto:support@circleci.com)
-if you need a different version; we'll be happy to install it for you.
-
 ## Dependencies
 
 Circle has the composer, pear, and pecl package managers installed.
