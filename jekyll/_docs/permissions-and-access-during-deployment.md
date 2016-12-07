@@ -19,3 +19,5 @@ Host prod-server
 IdentitiesOnly yes
 IdentityFile /home/ubuntu/.ssh/id_prod-server
 ```
+
+Note: If you're having trouble connecting to your remote host from circleci, try specifying the prod-server ip address rather than its hostname.  
